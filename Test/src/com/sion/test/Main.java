@@ -23,6 +23,7 @@ public class Main {
 		
 		myBike.info();
 		myBike.info();
+		myBike.info();
 
 		
 

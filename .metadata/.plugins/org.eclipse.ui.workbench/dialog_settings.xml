@@ -14,22 +14,42 @@
 		<item value="648" key="dialogWidth"/>
 		<list key="textEntries">
 			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
 			<item value="2"/>
 		</list>
 		<list key="orderedElements">
+			<item value="org.eclipse.jdt.ui.PackageExplorer"/>
+			<item value="org.eclipse.ui.views.showView(org.eclipse.ui.views.showView.viewId=org.eclipse.jdt.ui.PackageExplorer)"/>
 			<item value="org.eclipse.jdt.ui.preferences.JavaTemplatePreferencePage"/>
 			<item value="org.eclipse.ui.preferencePages.Keys"/>
 		</list>
 		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.commands"/>
 			<item value="org.eclipse.ui.preferences"/>
 			<item value="org.eclipse.ui.preferences"/>
 		</list>
 		<list key="textArray">
+			<item value="package "/>
+			<item value="package ex"/>
 			<item value="templates"/>
 			<item value="key"/>
 			<item value="keys"/>
 		</list>
 	</section>
+	<section name="PreferencesImportWizard">
+		<item value="/Users/sionyun/eclipse-workspace/RainbowDrops.epf" key=""/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/sionyun/eclipse-workspace/RainbowDrops.epf"/>
+		</list>
+	</section>
 	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.Preferences" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
 	</section>
 </section>
