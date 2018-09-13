@@ -15,10 +15,10 @@ public class Main {
 //		ib.funB();
 
 		
-		AbstractClassEx ex = new ClassEx();
+		AbstractClassEx ex = new AbstractClassEx();
 		
 		ex.fun1();
-		ex.fun2();
+		
 
 		
 

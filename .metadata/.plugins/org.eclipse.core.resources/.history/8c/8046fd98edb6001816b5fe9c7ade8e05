@@ -1,0 +1,6 @@
+package com.sion.test;
+
+public interface Interface {
+
+	public void funA();
+}
